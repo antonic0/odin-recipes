@@ -15,7 +15,10 @@ ul {
     padding-left: 0;
 }
 
+li {
+    margin-bottom: 10px;
+}
+
 a {
     color: #E3F2FD;
-    text-decoration: none;
 }
